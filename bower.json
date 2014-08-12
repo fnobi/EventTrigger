@@ -1,0 +1,9 @@
+{
+  "name": "EventTrigger",
+  "description": "node.js style EventEmitter for client side.",
+  "version": "0.0.0",
+  "main": "src/js/EventTrigger.js",
+  "dependencies": {
+    "jquery": "~1.10.*"
+  }
+}
