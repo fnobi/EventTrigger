@@ -39,7 +39,7 @@ CountDown.prototype.tick = function () {
         clearInterval(this.timer);
 
         // emit another event "countEnd"
-        this.emit('countEnd');
+        this.trigger('countEnd');
     }
 };
 
