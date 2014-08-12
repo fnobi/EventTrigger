@@ -1,6 +1,6 @@
 {
-  "name": "EventTrigger",
+  "name": "event-trigger",
   "description": "node.js style EventEmitter for client side.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/js/EventTrigger.js"
 }
