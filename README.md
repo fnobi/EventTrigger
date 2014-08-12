@@ -10,6 +10,8 @@ bower install EventTrigger
 
 ## usage
 
+See [demo page](http://fnobi.github.io/EventTrigger/demo/) also.
+
 ```javascript
 /* ========================================= *
  *  define Sample CountDown Class
