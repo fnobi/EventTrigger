@@ -5,7 +5,7 @@ node.js style EventEmitter for client side.
 ## install
 
 ```
-bower install EventTrigger
+bower install event-trigger
 ```
 
 ## usage
